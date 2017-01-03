@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerAddFragment.iml" filepath="$PROJECT_DIR$/ViewPagerAddFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerAddFragment/ViewPagerAddFragment-ViewPagerAddFragment.iml" filepath="$PROJECT_DIR$/ViewPagerAddFragment/ViewPagerAddFragment-ViewPagerAddFragment.iml" />
+    </modules>
+  </component>
+</project>
