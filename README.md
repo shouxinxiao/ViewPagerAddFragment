@@ -1,0 +1,2 @@
+# ViewPagerAddFragment
+封装好了的ViewPager包含指示器
